@@ -1,0 +1,88 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      "readme",
+      [
+        "Tokens",
+        [
+          "typography",
+          "colors",
+          "space",
+          "sizes",
+          "shadows",
+          "radii",
+          "border",
+          "z-index",
+          "theme"
+        ]
+      ],
+      [
+        "Layouts",
+        [
+          "box",
+          "aspect-ratio",
+          "center",
+          "container",
+          "flex",
+          "grid",
+          "simple-grid",
+          "stack",
+          "wrap",
+          "chakra-factory"
+        ]
+      ],
+      [
+        "Forms",
+        [
+          "button",
+          "checkbox",
+          "editable",
+          "form-control",
+          "icon-button",
+          "input",
+          "number-input",
+          "pin-input",
+          "radio",
+          "select",
+          "slider",
+          "switch",
+          "textarea"
+        ]
+      ],
+      [
+        "Feedback",
+        [
+          "alert",
+          "circular-progress",
+          "progress",
+          "skeleton",
+          "spinner",
+          "toast"
+        ]
+      ],
+      [
+        "Data Display",
+        [
+          "badge",
+          "close-button",
+          "code",
+          "divider",
+          "kbd",
+          "list",
+          "stat",
+          "table",
+          "tag"
+        ]
+      ],
+      ["Media and Icons", ["avatar", "icon", "image"]],
+      ["Navigation", ["breadcrumb", "link", "link-overlay"]],
+      ["Disclosure", ["accordion", "tabs", "visually-hidden"]],
+      [
+        "Overlay",
+        ["alert-dialog", "drawer", "menu", "modal", "popover", "tooltip"]
+      ],
+      ["dockit", ["doc-layout", "story-layout"]]
+    ]
+  }
+}
