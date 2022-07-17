@@ -43,6 +43,6 @@
     "react-icons": "^4.2.0",
     "react-lorem-component": "^0.13.0",
     "react-router-dom": "^5.2.0",
-    "react-spinners": "^0.10.6"
+    "react-spinners": "^0.13.1"
   }
 }
